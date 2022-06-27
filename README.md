@@ -1,4 +1,4 @@
-# Smackchat (smackchat)
+# ChatApp
 
 A Quasar Framework app
 
