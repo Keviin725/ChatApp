@@ -41,12 +41,28 @@
       	  online: true
       	}, {
       	  id: 2,
-      	  name: 'Jim',
+      	  name: 'Crush',
       	  online: false
       	}, {
       	  id: 3,
-      	  name: 'Lucy',
+      	  name: 'Kyle Jenner',
       	  online: true
+      	}, {
+      	  id: 4,
+      	  name: 'S Jay',
+      	  online: true
+      	}, {
+      	  id: 5,
+      	  name: 'Poze',
+      	  online: false
+      	}, {
+      	  id: 6,
+      	  name: '21 Savage',
+      	  online: true
+      	}, {
+      	  id: 7,
+      	  name: 'Scott',
+      	  online: false
       	}]
 	    }
 	  }
